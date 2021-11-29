@@ -12,6 +12,7 @@ tags:
   - couper
   - indexof
   - majuscule
+  - .
   - minuscule
   - remplacer
 translation_of: Learn/JavaScript/First_steps/Useful_string_methods
@@ -243,6 +244,7 @@ let radData = 'My NaMe Is MuD';
 radData.toLowerCase();
 radData.toUpperCase();
 ```
+
 
 ### Actualiser des parties de chaîne
 
